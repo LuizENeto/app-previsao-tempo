@@ -28,5 +28,5 @@ export const IconWrapper = styled.span`
 export const DataText = styled.p`
   font-size: 1em;
   color: ${(props) => props.theme.textColor};
-  margin: 0;
+  margin-left: 10px;
 `
